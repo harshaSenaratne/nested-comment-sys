@@ -4,6 +4,7 @@ This comment system module is built using React / Fastify / Prisma & Postgres.
 
 ## Demo
 
+[screen-capture (2).webm](https://user-images.githubusercontent.com/25275596/210443503-db66180f-fef6-4799-bd06-618ac46b8508.webm)
 
 ## Prerequisite
 You should have postgres installed and you need to have your postgres database already running to connect to it (using the DATABASE_URL).
